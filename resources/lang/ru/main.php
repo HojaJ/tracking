@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'wrong_phone' => 'Неправильный номер телефона',
+    'wrong_password' => 'Неправильный пароль',
+    'wellcome' => 'Добро пожаловать в <br/> Erk trading',
+    'wellcome_login' => 'Войти',
+    'wellcome_register' => 'Создать аккаунт',
+    'enter_info' => 'Введите информацию',
+    'phone_input' => 'Телефон',
+    'password_input' => 'Пароль',
+    'enter_info_new_acc' => 'Введите информацию для создания нового аккаунта',
+    'firstname' => 'Имя',
+    'lastname'  => 'Фамилия',
+    'track_input' => 'Введите номер маркировки товара',
+    'track_by_code' => 'Введите код',
+    'last_search' => 'В последний раз искали',
+
+    'not_info' => 'Обрабатывается',
+    'send_way' => 'Дорога:',
+    'deliver_date' => 'Дата отправки:',
+    'china' => 'Китай',
+    'turkmenistan' => 'Туркменистан',
+    'in_ammar'  => 'В складе',
+    'ready_to_sent' => 'Ваш груз сейчас на складе и готовится к отправке!',
+    'sent' => 'Груз отправлен!',
+    'sent_to' => 'Ваш груз отправлен из Китая в Туркменистан!',
+    'cargo_name' => 'Название:',
+    'bellik' => 'Примечание:',
+    'cargo_location_info' => 'Ваш груз сейчас находится в складе :name',
+    'weight_info' => 'Вес (кг):',
+    'barcode' => 'Ştrih kody:',
+    'place_info' => 'Количество мест:',
+    'capacity_info' => 'Объем (куб):',
+    'kg' => 'кг',
+    'install_app' => 'Установить как приложения!'
+];

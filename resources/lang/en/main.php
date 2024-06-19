@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'wrong_phone' => 'Incorrect phone number',
+    'wrong_password' => 'Incorrect password',
+    'wellcome' => 'Welcome to <br/> Erk trading',
+    'wellcome_login' => 'Login',
+    'wellcome_register' => 'Create an account',
+    'enter_info' => 'Enter information',
+    'phone_input' => 'Phone',
+    'password_input' => 'Password',
+    'enter_info_new_acc' => 'Enter information to create a new account',
+    'firstname' => 'First name',
+    'lastname'  => 'Last name',
+    'track_input' => 'Enter the product marking number',
+    'track_by_code' => 'Enter code',
+    'last_search' => 'Last searched',
+
+    'not_info' => 'Processing',
+    'send_way' => 'Route:',
+    'deliver_date' => 'Date of dispatch:',
+    'china' => 'China',
+    'turkmenistan' => 'Turkmenistan',
+    'in_ammar'  => 'In warehouse',
+    'ready_to_sent' => 'Your cargo is now in the warehouse and is being prepared for dispatch!',
+    'sent' => 'Cargo sent!',
+    'sent_to' => 'Your cargo has been sent from China to Turkmenistan!',
+    'cargo_name' => 'Name:',
+    'bellik' => 'Note:',
+    'cargo_location_info' => 'Your cargo is currently located in the warehouse :name',
+    'weight_info' => 'Weight (kg):',
+    'barcode' => 'Barcode:',
+    'place_info' => 'Number of places:',
+    'capacity_info' => 'Volume (cbm):',
+    'kg' => 'kg',
+    'install_app' => 'Install as an application!'
+];
